@@ -83,9 +83,56 @@ header li{
 
 }
 
+/*
 
 #canada{
   margin:0;
   padding:0;
 
 }
+*/
+
+#webdesign{
+  float:left;
+  list-style-type:none;
+  font-size: 14px;
+  padding-left:50px;
+  padding-top:240px;
+  overflow: hidden;
+}
+
+
+.bottomright li {
+  float:right;
+  text-decoration:none;
+  list-style-type:none;
+  padding: 0 20px 0 0px;
+  display:inline;
+  margin-top: 350px;
+  overflow:hidden;
+  min-height:70px
+}
+
+.bottomleft li{
+  float:left;
+  text-decoration: none;
+  list-style-type:none;
+  padding: 0 20px 20px 0px;
+  display:inline;
+  margin-top: 350px;
+  min-height:70px;
+  overflow: hidden;
+
+}
+
+/*
+.canada li{
+  text-decoration: none;
+  list-style-type:none;
+  padding: 10px 0px 0 0px;
+  display:inline;
+  margin-top: 200px;
+  min-height:70px;
+  overflow: hidden;
+
+}*/
